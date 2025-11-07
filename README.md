@@ -2,8 +2,8 @@
 Github demonstration for ZC11 in Introduction to Computing
 
 <br>#November 7, 2025 {
-<br>    Created a C++ folder
-<br>added helloworld.cpp
+<br>Created a C++ folder
+<br>    added helloworld.cpp
 <br>Created "hatdog" folder
 <br>    added folder.txt
 <br>    added index.html
